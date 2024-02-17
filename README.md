@@ -19,5 +19,5 @@ If the project has a correspondent manuscript: links to the publication, DOI and
 Suggestions:
 - description of repository's content and directories
 - description of the used dataset and where to obtain it if publicly available
-- instructions for cloning, installation, compilation, environment setup and ativation, etc.
+- instructions for cloning, installation, compilation, environment setup and activation, etc.
 - instructions to fully reproduce the project (published) results
