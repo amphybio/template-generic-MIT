@@ -12,7 +12,7 @@ _Long project description._ Lorem ipsum dolor sit amet, consectetur adipiscing e
 
 ## Citation
 
-If the project has a correspondent manuscript, links to the publication, DOI and complete citation.
+If the project has a correspondent manuscript: links to the publication, DOI and complete citation.
 
 ## Further sections
 
